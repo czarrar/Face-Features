@@ -1,3 +1,2 @@
 untitled.tex
-Scratch_Methods_We_used_videos__.tex
 temp_me__.md
